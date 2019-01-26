@@ -1,10 +1,11 @@
 created: 20190126155658548
-modified: 20190126162055361
+modified: 20190126162828685
 title: TransposingKeys
 type: text/vnd.tiddlywiki
 
 We are interested in taking a song in the key of C and transposing it to another key.
 
 Two keys that we are considering transposing to are
+
 * G: which contains F#
 * F: which contains Bb
