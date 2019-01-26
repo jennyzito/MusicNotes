@@ -1,5 +1,5 @@
 created: 20190126155658548
-modified: 20190126162828685
+modified: 20190126164919456
 title: TransposingKeys
 type: text/vnd.tiddlywiki
 
@@ -9,3 +9,9 @@ Two keys that we are considering transposing to are
 
 * G: which contains F#
 * F: which contains Bb
+
+
+In general on the 12 note scale that we are familiar with of twelve half steps
+to go one octave in a key (e.g. the white notes on the piano are the key of C) we
+have the pattern the 13 bit pattern: 1010110101011  where the "1"s for C are the white notes starting and ending with C.
+
