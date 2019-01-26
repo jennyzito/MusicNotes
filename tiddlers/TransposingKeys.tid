@@ -1,5 +1,5 @@
 created: 20190126155658548
-modified: 20190126155808871
+modified: 20190126162055361
 title: TransposingKeys
 type: text/vnd.tiddlywiki
 
@@ -7,4 +7,4 @@ We are interested in taking a song in the key of C and transposing it to another
 
 Two keys that we are considering transposing to are
 * G: which contains F#
-*  ?: which contains Bb
+* F: which contains Bb
